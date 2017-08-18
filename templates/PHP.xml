@@ -1,0 +1,27 @@
+<templateSet group="PHP">
+  <template name="dump" value="printf('$TITLE$&lt;pre&gt;%s&lt;/pre&gt;', print_r($VALUE$, true));" description="Web-friendly print_r" toReformat="true" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="str" value="string" description="string" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+  <template name="strn" value="string|null" description="string or null" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+  <template name="adder" value="$SCOPE$ function add$METHOD$($amount) {&#10;    $this-&gt;$FIELD$ += $amount;&#10;    &#10;    return $this;&#10;}$END$" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="SCOPE" expression="" defaultValue="public" alwaysStopAt="true" />
+    <variable name="METHOD" expression="capitalize(String)" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD" expression="phpSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>

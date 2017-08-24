@@ -1,17 +1,7 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://uebb.visualstudio.com/_git/docker-demo" />
-          <option name="serverUri" value="https://uebb.visualstudio.com" />
-          <option name="userId" value="d033368d-2db5-6c11-a0fe-1526f3d8c61d" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;b5eafc66-d303-4ff1-8fa7-e3bff5dd100b&quot;,&quot;name&quot;:&quot;uebb&quot;,&quot;url&quot;:&quot;https://uebb.visualstudio.com/_apis/projectCollections/b5eafc66-d303-4ff1-8fa7-e3bff5dd100b&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;b6526ce5-e8e8-4ac0-955c-ff0c288a244e&quot;,&quot;name&quot;:&quot;docker-demo&quot;,&quot;revision&quot;:51,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://uebb.visualstudio.com/_apis/projects/b6526ce5-e8e8-4ac0-955c-ff0c288a244e&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;23004f44-c39c-481b-9a9f-2b385317cb5d&quot;,&quot;name&quot;:&quot;docker-demo&quot;,&quot;remoteUrl&quot;:&quot;https://uebb.visualstudio.com/_git/docker-demo&quot;,&quot;url&quot;:&quot;https://uebb.visualstudio.com/_apis/git/repositories/23004f44-c39c-481b-9a9f-2b385317cb5d&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;b6526ce5-e8e8-4ac0-955c-ff0c288a244e&quot;,&quot;name&quot;:&quot;docker-demo&quot;,&quot;revision&quot;:51,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://uebb.visualstudio.com/_apis/projects/b6526ce5-e8e8-4ac0-955c-ff0c288a244e&quot;}}" />
-        </ServerContextState>
-      </array>
+      <array />
     </option>
     <option name="properties">
       <array>

@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="typoscript" type="PLAIN_TEXT" />
       <mapping ext="zshrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

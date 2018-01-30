@@ -6,6 +6,7 @@
       <mapping pattern="varnish" type="PLAIN_TEXT" />
       <mapping pattern="passwd" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />

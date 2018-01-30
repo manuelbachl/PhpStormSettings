@@ -5,7 +5,9 @@
       <mapping pattern="sudoers" type="PLAIN_TEXT" />
       <mapping pattern="varnish" type="PLAIN_TEXT" />
       <mapping pattern="passwd" type="PLAIN_TEXT" />
+      <mapping pattern="tmp2" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />

@@ -1,0 +1,25 @@
+<code_scheme name="Siematic" version="173">
+  <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
+  <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bCase\b.*">
+      <option name="FOREGROUND" value="5ce2ff" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bExpression\b.*">
+      <option name="FOREGROUND" value="acff" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bCondition\b.*">
+      <option name="FOREGROUND" value="acff" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\bDefinition\b.*">
+      <option name="FOREGROUND" value="acff" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+  </component>
+</code_scheme>

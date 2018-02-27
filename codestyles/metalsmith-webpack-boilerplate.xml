@@ -1,4 +1,7 @@
 <code_scheme name="metalsmith-webpack-boilerplate" version="173">
+  <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
+  <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <indentOptions>

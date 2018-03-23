@@ -4,6 +4,8 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
+      <removed_mapping pattern="setup.ts" type="TypoScript File" />
+      <removed_mapping pattern="constants.ts" type="TypoScript File" />
     </extensionMap>
   </component>
 </application>

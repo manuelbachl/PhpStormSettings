@@ -7,6 +7,7 @@
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="credentials" type="PLAIN_TEXT" />
+      <mapping ext="de" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
     </extensionMap>
